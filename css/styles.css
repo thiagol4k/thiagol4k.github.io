@@ -164,12 +164,12 @@
 #skills-container {
     display: flex;
     flex-wrap: wrap;
-    margin-top: 25px;
+    margin-top: 15px;
 }
 
 .skills-box {
     flex: 1 1 33%;
-    max-width: 50%;
+    max-width: 33%;
     margin-bottom: 35px;
 }
 
@@ -182,7 +182,7 @@
 }
 
 .skills-box i {
-    font-size: 35px;
+    font-size: 45px;
     margin-right: 10px;
 }
 
